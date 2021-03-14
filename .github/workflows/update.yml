@@ -1,0 +1,26 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Run script
+        run: GTOKEN=${{ secrets.GTOKEN}} node main.js
+      - name: Commit the updated list
+        env:
+          GITHUB_EMAIL: "sungunkim367@gmail.com"
+          GITHUB_USER: "sunnysid3up"
+        run: |
+          git config user.email "${GITHUB_EMAIL}"
+          git config user.name "${GITHUB_USER}"
+          git add README.md
+          git commit -am "[DOC]: Auto update README"
+          git push -f --set-upstream origin main

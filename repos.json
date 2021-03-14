@@ -1,0 +1,34 @@
+[
+  {
+    "name": "express",
+    "path": "expressjs/express"
+  },
+  {
+    "name": "feathers",
+    "path": "feathersjs/feathers"
+  },
+  {
+    "name": "koa",
+    "path": "koajs/koa"
+  },
+  {
+    "name": "hapi",
+    "path": "hapijs/hapi"
+  },
+  {
+    "name": "loopback",
+    "path": "strongloop/loopback"
+  },
+  {
+    "name": "meteor",
+    "path": "meteor/meteor"
+  },
+  {
+    "name": "nest",
+    "path": "nestjs/nest"
+  },
+  {
+    "name": "sails",
+    "path": "balderdashy/sails"
+  }
+]
