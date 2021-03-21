@@ -4,6 +4,10 @@
     "path": "expressjs/express"
   },
   {
+    "name": "fastify",
+    "path": "fastify/fastify"
+  },
+  {
     "name": "feathers",
     "path": "feathersjs/feathers"
   },
