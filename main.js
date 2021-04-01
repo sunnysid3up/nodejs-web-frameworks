@@ -52,7 +52,7 @@ function rankByStars(repos) {
 }
 
 async function write(sortedRepos) {
-  let data = `# Top Node.js Web Frameworks \nA list of popular Node.js web frameworks ranked by the number of GitHub stars, automatically updated every week.\n\nLast update: ${new Date().toISOString()}
+  let data = `# Top Node.js Web Frameworks\n\n[![update](https://github.com/sunnysid3up/nodejs-web-frameworks/actions/workflows/update.yml/badge.svg)](https://github.com/sunnysid3up/nodejs-web-frameworks/actions/workflows/update.yml)\n\nA list of popular Node.js web frameworks ranked by the number of GitHub stars, automatically updated every week.\n\nLast update: ${new Date().toISOString()}
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         | Language          |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|-------------------|`
