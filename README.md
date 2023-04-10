@@ -4,19 +4,19 @@
 
 A list of popular Node.js web frameworks ranked by the number of GitHub stars, automatically updated every week.
 
-Last update: 2023-04-03T01:04:29.016Z
+Last update: 2023-04-10T01:04:56.793Z
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         | Language          |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|-------------------|
-| [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | 60450 | 10397 | 155 | 2009 | 2023-04-03 | JS |
-| [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 55597 | 6715 | 112 | 2017 | 2023-04-02 | TS |
-| [meteor](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform | 43410 | 5234 | 229 | 2012 | 2023-04-02 | JS |
-| [koa](https://github.com/koajs/koa) | Expressive middleware for node.js using ES2017 async functions | 33828 | 3284 | 63 | 2013 | 2023-04-02 | JS |
-| [fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js | 26890 | 1983 | 81 | 2016 | 2023-04-03 | JS |
-| [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js | 22554 | 1970 | 562 | 2012 | 2023-04-02 | JS |
-| [feathers](https://github.com/feathersjs/feathers) | The API and real-time application framework | 14529 | 729 | 91 | 2011 | 2023-04-02 | TS |
-| [hapi](https://github.com/hapijs/hapi) | The Simple, Secure Framework Developers Trust | 14222 | 1379 | 45 | 2011 | 2023-04-01 | JS |
-| [loopback](https://github.com/strongloop/loopback) | LoopBack makes it easy to build modern applications that require complex integrations. | 13279 | 1249 | 13 | 2013 | 2023-03-31 | JS |
+| [express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | 60514 | 10412 | 154 | 2009 | 2023-04-10 | JS |
+| [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | 55781 | 6738 | 64 | 2017 | 2023-04-10 | TS |
+| [meteor](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform | 43422 | 5234 | 225 | 2012 | 2023-04-09 | JS |
+| [koa](https://github.com/koajs/koa) | Expressive middleware for node.js using ES2017 async functions | 33849 | 3286 | 63 | 2013 | 2023-04-09 | JS |
+| [fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js | 26962 | 1989 | 75 | 2016 | 2023-04-09 | JS |
+| [sails](https://github.com/balderdashy/sails) | Realtime MVC Framework for Node.js | 22559 | 1971 | 562 | 2012 | 2023-04-09 | JS |
+| [feathers](https://github.com/feathersjs/feathers) | The API and real-time application framework | 14545 | 728 | 86 | 2011 | 2023-04-09 | TS |
+| [hapi](https://github.com/hapijs/hapi) | The Simple, Secure Framework Developers Trust | 14226 | 1380 | 44 | 2011 | 2023-04-09 | JS |
+| [loopback](https://github.com/strongloop/loopback) | LoopBack makes it easy to build modern applications that require complex integrations. | 13277 | 1248 | 13 | 2013 | 2023-04-09 | JS |
 
 ## Contribute 
 
